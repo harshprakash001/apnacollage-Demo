@@ -1,4 +1,4 @@
 # apnacollage-Demo
 This is my git repository
 <br>
-Author- Harsh Prakash Mishra
+Author- Harsh Prakash Mishra B.tech
